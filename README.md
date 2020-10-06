@@ -9,3 +9,7 @@
   
   ### Running tests via command line
   - Tests can be run from the terminal by navigating to the main 'ryanairtest' folder and running the command $ mvn test
+
+## Reporting
+- A link to the Karate test reports is provided when running from IDE and command line
+- The test reports can also be found by navigating to correct folder > ryanairtest/target/surefire-reports/karate-summary.html

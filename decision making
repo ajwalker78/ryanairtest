@@ -1,9 +1,9 @@
 Thank you for taking the time to review this testing code for the 'ryanairAPI'
 
-The testing framework I used
+##The testing framework I used
 I decided to use the Karate Testing Framework as this is preferred by Ryanair, and used this with Java (maven) and IntelliJ as the development environment. Whilst I haven't used this framework before it was easy to set up and get to understanding the basics. Due to the way that Karate the use of BDD is a given.
 
-Issues encountered
+##Issues encountered
 The Karate framework is easy to pick up and use instantly, although what I have done in this short time is only the tip of the iceburg of what could be done. With that, I did have some issues trying to get the Karate framework to do what I wanted and where I would normally look for coding solutions with other test frameworks such as TestNG.
 
 I will certainly be investing more time into understanding the Karate Testing Framework a lot better.

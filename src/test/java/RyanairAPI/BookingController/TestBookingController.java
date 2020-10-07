@@ -1,11 +1,13 @@
-package BookingController.ResponseBody;
+package RyanairAPI.BookingController;
 
 import com.intuit.karate.junit5.Karate;
 
-class ResponseBodyRunner {
+class TestBookingController {
     
+
     @Karate.Test
     Karate testAll() {
         return Karate.run().relativeTo(getClass());
     }
-}
+
+    }

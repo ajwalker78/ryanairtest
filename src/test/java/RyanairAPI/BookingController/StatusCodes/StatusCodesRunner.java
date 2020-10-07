@@ -1,4 +1,4 @@
-package UserController.StatusCodes;
+package RyanairAPI.BookingController.StatusCodes;
 
 import com.intuit.karate.junit5.Karate;
 

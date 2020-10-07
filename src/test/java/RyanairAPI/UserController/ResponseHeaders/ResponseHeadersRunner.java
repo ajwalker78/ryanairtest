@@ -1,8 +1,8 @@
-package UserController.ResponseBody;
+package RyanairAPI.UserController.ResponseHeaders;
 
 import com.intuit.karate.junit5.Karate;
 
-class ResponseBodyRunner {
+class ResponseHeadersRunner {
     
     @Karate.Test
     Karate testAll() {

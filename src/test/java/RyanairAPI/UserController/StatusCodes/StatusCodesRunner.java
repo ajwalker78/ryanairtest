@@ -1,13 +1,11 @@
-package BookingController;
+package RyanairAPI.UserController.StatusCodes;
 
 import com.intuit.karate.junit5.Karate;
 
-class TestBookingController {
+class StatusCodesRunner {
     
-
     @Karate.Test
     Karate testAll() {
         return Karate.run().relativeTo(getClass());
     }
-
-    }
+}

@@ -1,11 +1,14 @@
-package UserController.ResponseHeaders;
+package RyanairAPI;
 
 import com.intuit.karate.junit5.Karate;
 
-class ResponseHeadersRunner {
-    
+class test_runner {
+
+
     @Karate.Test
     Karate testAll() {
         return Karate.run().relativeTo(getClass());
     }
+
 }
+

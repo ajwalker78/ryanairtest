@@ -1,4 +1,4 @@
-package UserController;
+package RyanairAPI.UserController;
 
 import com.intuit.karate.junit5.Karate;
 

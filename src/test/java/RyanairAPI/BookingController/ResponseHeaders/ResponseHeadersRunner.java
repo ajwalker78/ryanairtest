@@ -1,4 +1,4 @@
-package BookingController.ResponseHeaders;
+package RyanairAPI.BookingController.ResponseHeaders;
 
 import com.intuit.karate.junit5.Karate;
 

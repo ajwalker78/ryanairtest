@@ -1,8 +1,8 @@
-package BookingController.StatusCodes;
+package RyanairAPI.BookingController.ResponseBody;
 
 import com.intuit.karate.junit5.Karate;
 
-class StatusCodesRunner {
+class ResponseBodyRunner {
     
     @Karate.Test
     Karate testAll() {
